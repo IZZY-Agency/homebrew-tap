@@ -1,6 +1,6 @@
 cask "ration" do
-  version "1.10.0"
-  sha256 "d8a69ab9d8ffa7aa96eeb5d245ae795d0cb72322ef2ddbfd419c7f9df302c167"
+  version "1.11.0"
+  sha256 "25c6203c807f79fb985f381e2c5c6ccac9134e9dd9b2981e566e1331ec310fb6"
 
   url "https://github.com/IZZY-Agency/ration/releases/download/v#{version}/Ration-#{version}.dmg"
   name "Ration"
