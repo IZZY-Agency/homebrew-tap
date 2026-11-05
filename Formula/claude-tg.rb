@@ -10,23 +10,23 @@ class ClaudeTg < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/IZZY-Agency/claude-tg/releases/download/v0.4.0/tg-0.4.0-macos-arm64.tar.gz"
-      sha256 "7c44d28ee74d9f70fdb6d4a3767b9403a6159627dd2a8f347d80cac969f0af9b"
+      url "https://github.com/IZZY-Agency/claude-tg/releases/download/v0.4.1/tg-0.4.1-macos-arm64.tar.gz"
+      sha256 "6acd6d2ab2f25fda66738dda7ce25e5b1bf83228082221116bc77c12df1ca931"
     end
     on_intel do
-      url "https://github.com/IZZY-Agency/claude-tg/releases/download/v0.4.0/tg-0.4.0-macos-x86_64.tar.gz"
-      sha256 "a108875ec8060878ef18e34c244de1cabcd6475c1d30f52d6b8e55adb6788f45"
+      url "https://github.com/IZZY-Agency/claude-tg/releases/download/v0.4.1/tg-0.4.1-macos-x86_64.tar.gz"
+      sha256 "1c6ad5587448243e4144e26e3e255b7a9dca274378a94f471509cb683791cd6e"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/IZZY-Agency/claude-tg/releases/download/v0.4.0/tg-0.4.0-linux-arm64.tar.gz"
-      sha256 "748d57e098affc0d013f7f01b32313d486e7125031e6faf2c5d46d5eaf90e191"
+      url "https://github.com/IZZY-Agency/claude-tg/releases/download/v0.4.1/tg-0.4.1-linux-arm64.tar.gz"
+      sha256 "db1de25232466fb6fbdd1b6a3ebf85c8c516d12e89044e7a9b3440fd7e68d58a"
     end
     on_intel do
-      url "https://github.com/IZZY-Agency/claude-tg/releases/download/v0.4.0/tg-0.4.0-linux-x86_64.tar.gz"
-      sha256 "561b24e02ef69267440d784cb588fadb7a78c109696a520766a6b14c722ad2ff"
+      url "https://github.com/IZZY-Agency/claude-tg/releases/download/v0.4.1/tg-0.4.1-linux-x86_64.tar.gz"
+      sha256 "657ec49e5be3a5637d772d460a4cf8362e5eef4deffab2f1080cccdda3e41c6d"
     end
   end
 
