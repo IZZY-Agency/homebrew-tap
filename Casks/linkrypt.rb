@@ -1,6 +1,6 @@
 cask "linkrypt" do
-  version "1.0.1"
-  sha256 "e30561e499bebd17cff9e85d388b0230b0ae04be643daa94adf43d59d11dae5f"
+  version "1.1.0"
+  sha256 "8a632c80892a556b074f2394fb4192873685a134d4c6b6231a745eaa021a87fd"
 
   url "https://github.com/IZZY-Agency/linkrypt/releases/download/macos-v#{version}/Linkrypt-#{version}.dmg"
   name "Linkrypt"
