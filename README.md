@@ -6,6 +6,7 @@ brew install --cask izzy-agency/tap/linkrypt
 brew install izzy-agency/tap/linkrypt-cli
 brew install izzy-agency/tap/claude-tg
 brew install izzy-agency/tap/sitboard
+brew install izzy-agency/tap/quartermaster
 ```
 
 | Package | What it is | Source |
@@ -15,6 +16,7 @@ brew install izzy-agency/tap/sitboard
 | `linkrypt-cli` (formula) | The `linkrypt` command-line client, with the `lk` alias (macOS and Linux) | [IZZY-Agency/linkrypt](https://github.com/IZZY-Agency/linkrypt) · [linkrypt.sh](https://linkrypt.sh/en/cli) |
 | `claude-tg` (formula) | Claude Code sessions on your phone: Telegram alerts, live feed and replies (macOS and Linux) | [IZZY-Agency/claude-tg](https://github.com/IZZY-Agency/claude-tg) |
 | `sitboard` (formula) | A live local board of your AI coding agents, their pull requests and checks (macOS and Linux) | [IZZY-Agency/sitboard](https://github.com/IZZY-Agency/sitboard) |
+| `quartermaster` (formula) | Picks the model and effort for each Claude Code worker and reviewer before it starts (macOS and Linux) | [IZZY-Agency/quartermaster](https://github.com/IZZY-Agency/quartermaster) |
 
 `brew upgrade` picks up new releases. The casks point at the signed, notarized
 `.dmg` attached to each GitHub release, and the formula at the release's
