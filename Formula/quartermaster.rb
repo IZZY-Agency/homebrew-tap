@@ -10,23 +10,23 @@ class Quartermaster < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/IZZY-Agency/quartermaster/releases/download/v0.2.0/quartermaster-0.2.0-macos-arm64.tar.gz"
-      sha256 "56b05aae9035b6d8e75b434df35e1ca25abcbecf77a2175b1f50f3767cc4b421"
+      url "https://github.com/IZZY-Agency/quartermaster/releases/download/v0.2.1/quartermaster-0.2.1-macos-arm64.tar.gz"
+      sha256 "a877cb899798ef63e2a051298d49db3e3d48a0e61078c101afe16134bd03a8f9"
     end
     on_intel do
-      url "https://github.com/IZZY-Agency/quartermaster/releases/download/v0.2.0/quartermaster-0.2.0-macos-x86_64.tar.gz"
-      sha256 "c461214524a095e59c05c5d583bc6382502d465f79296f8b6f044581abc80ab8"
+      url "https://github.com/IZZY-Agency/quartermaster/releases/download/v0.2.1/quartermaster-0.2.1-macos-x86_64.tar.gz"
+      sha256 "3894aa38b5683a280710d7751ac8c37d158785664f26b442ac503295c902878d"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/IZZY-Agency/quartermaster/releases/download/v0.2.0/quartermaster-0.2.0-linux-arm64.tar.gz"
-      sha256 "8d3bb250106f3d2cd3d67b48b6c1830bdea567a5c7c76141eae9c6f07f8c2f05"
+      url "https://github.com/IZZY-Agency/quartermaster/releases/download/v0.2.1/quartermaster-0.2.1-linux-arm64.tar.gz"
+      sha256 "71a29dc5cc0c3de2d514d8bc73ad59050e1436e557e5d75a3b4a6f80b57f2d5b"
     end
     on_intel do
-      url "https://github.com/IZZY-Agency/quartermaster/releases/download/v0.2.0/quartermaster-0.2.0-linux-x86_64.tar.gz"
-      sha256 "24c45dc1316f9593598d9714b122ed4844aa1c792c9efb0592073682cd99e769"
+      url "https://github.com/IZZY-Agency/quartermaster/releases/download/v0.2.1/quartermaster-0.2.1-linux-x86_64.tar.gz"
+      sha256 "11e27201a479d8f8b63c100c2cd0b68d1a612e55df70ba0ac10b0a9d2364768a"
     end
   end
 
