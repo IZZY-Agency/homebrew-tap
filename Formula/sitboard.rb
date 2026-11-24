@@ -10,23 +10,23 @@ class Sitboard < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/IZZY-Agency/sitboard/releases/download/v0.4.0/sitboard-0.4.0-macos-arm64.tar.gz"
-      sha256 "9365b5e888f35c2cb7fd775353e7b5ab5f8a52b6b661b79fff84f09963a9495b"
+      url "https://github.com/IZZY-Agency/sitboard/releases/download/v0.5.0/sitboard-0.5.0-macos-arm64.tar.gz"
+      sha256 "010e84d1870993e991941b1710d491580ddd29971ba2beac15e920b30967b1c6"
     end
     on_intel do
-      url "https://github.com/IZZY-Agency/sitboard/releases/download/v0.4.0/sitboard-0.4.0-macos-x86_64.tar.gz"
-      sha256 "5234ff6803434c8f9165527a723198d98aa051d14d243377f6ed38e7383ba94f"
+      url "https://github.com/IZZY-Agency/sitboard/releases/download/v0.5.0/sitboard-0.5.0-macos-x86_64.tar.gz"
+      sha256 "4c7cefc8a0612541e030e5af5c138ef4d2ba7b3ac2758337363f1bff7474d83a"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/IZZY-Agency/sitboard/releases/download/v0.4.0/sitboard-0.4.0-linux-arm64.tar.gz"
-      sha256 "4f0ce7b0730542333a95945bedb1efe830cc1dc9fdb336cd8a18c25d5e57dedc"
+      url "https://github.com/IZZY-Agency/sitboard/releases/download/v0.5.0/sitboard-0.5.0-linux-arm64.tar.gz"
+      sha256 "1178a2b5884c529bf5d994d1d591c80f35c75ae2e0ced03328daeb4c623fdc7a"
     end
     on_intel do
-      url "https://github.com/IZZY-Agency/sitboard/releases/download/v0.4.0/sitboard-0.4.0-linux-x86_64.tar.gz"
-      sha256 "a37d9effaa10557644f4763349b85b8e988c3704afa6b5de315214a5fab2ad4b"
+      url "https://github.com/IZZY-Agency/sitboard/releases/download/v0.5.0/sitboard-0.5.0-linux-x86_64.tar.gz"
+      sha256 "553024c7eb472aaa13752f4d9291c270c6f8f80c2c4c796971842e332755d28c"
     end
   end
 
